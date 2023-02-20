@@ -12,4 +12,3 @@ def random_number_1_to_7():
     return result
 
 print(random_number_1_to_7())
-
